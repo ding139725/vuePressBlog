@@ -2,6 +2,7 @@ module.exports = {
   "title": "大雄博客",
   "description": "这是一个小菜鸟的博客",
   "dest": "public",
+  "base": "vuePressBlog",
   "head": [
     [
       "link",
